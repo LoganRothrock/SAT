@@ -168,7 +168,7 @@ namespace SAT.MVC.DATA.EF
     [MetadataType(typeof(ScheduledClassMetadata))]
     public partial class ScheduledClass
     {
-
+        //public string CourseInfo { get { CourseInfo = StartDate + " " + Location + " " +  }; set; }
     }
 
     public class EnrollmentMetadata
